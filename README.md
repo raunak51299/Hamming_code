@@ -1,4 +1,4 @@
-# Hamming_code_visualizer
+# Hamming_code_simulator
 Hamming code generator and error checker.
 
 ## Todo:
