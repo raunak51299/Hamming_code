@@ -7,4 +7,4 @@ elif(option==2):
     ErrorDetector.main()
 else:
     print("invalid input")
-
+#idkwhatimdoing
